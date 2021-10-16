@@ -1,0 +1,14 @@
+﻿  3DPyramid.cpp
+C:\Users\Ryan\Documents\CS 330\Mod 7\CS330 3DPyramid\3DPyramid.cpp(252,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ryan\Documents\CS 330\Mod 7\CS330 3DPyramid\3DPyramid.cpp(423,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ryan\Documents\CS 330\Mod 7\CS330 3DPyramid\3DPyramid.cpp(424,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ryan\Documents\CS 330\Mod 7\CS330 3DPyramid\3DPyramid.cpp(428,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ryan\Documents\CS 330\Mod 7\CS330 3DPyramid\3DPyramid.cpp(429,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ryan\Documents\CS 330\Mod 7\CS330 3DPyramid\3DPyramid.cpp(431,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ryan\Documents\CS 330\Mod 7\CS330 3DPyramid\3DPyramid.cpp(432,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ryan\Documents\CS 330\Mod 7\CS330 3DPyramid\3DPyramid.cpp(441,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  LINK : C:\Users\Ryan\Documents\CS 330\Mod 7\Debug\CS330 Pyramid.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CS330 3DPyramid.vcxproj -> C:\Users\Ryan\Documents\CS 330\Mod 7\Debug\CS330 Pyramid.exe
+  C:\Users\Ryan\Documents\CS 330\Mod 7\bin\glew-2.2.0\Release\x64\glew32.dll
+  1 File(s) copied
